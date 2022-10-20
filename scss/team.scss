@@ -1,0 +1,31 @@
+@import "style.scss";
+
+
+
+body{
+    background: url('../imag/team.jpg') center no-repeat;
+}
+
+
+/* Container start */
+.container{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0px 20px;
+}
+/* Container end */
+
+
+/* Header start */
+.header__link{
+    color: green;
+}
+.our-team__header {
+    width: 100%;
+    margin: 0 auto 40px;
+    text-align: center;
+    margin-top: 70px;
+}
+/* Header end */
+
